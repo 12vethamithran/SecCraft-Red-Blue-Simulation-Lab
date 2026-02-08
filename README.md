@@ -93,10 +93,10 @@ python utils/check_permissions.py   # Check IAM capabilities
 
 ## 📚 Documentation
 
-- [Lab Guide](docs/lab-guide.md) - Step-by-step instructions
-- [Walkthrough](docs/walkthrough.md) - Troubleshooting and deployment fixes
-- [Attack Scenarios](docs/attack-scenarios.md) - Penetration testing walkthroughs
-- [Defense Scenarios](docs/defense-scenarios.md) - SOC response procedures
+- [Lab Guide] - Step-by-step instructions
+- [Walkthrough] - Troubleshooting and deployment fixes
+- [Attack Scenarios] - Penetration testing walkthroughs
+- [Defense Scenarios] - SOC response procedures
 
 ## 🔬 Lab Modules
 
@@ -111,3 +111,4 @@ python utils/check_permissions.py   # Check IAM capabilities
 ## 📝 License
 
 This project is for educational purposes only.
+
