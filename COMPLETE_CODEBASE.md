@@ -6,12 +6,12 @@
 # Rename this file to .env and fill in your values
 
 # AWS Credentials (Required if not configured via AWS CLI)
-AWS_ACCESS_KEY_ID=AKIAU6U45JOEUBCSBCUO
-AWS_SECRET_ACCESS_KEY=DSGSGMURAwy37fhs+s3va4QvZKZoI4vqEufoLG1p
+AWS_ACCESS_KEY_ID="Enter_access_key"
+AWS_SECRET_ACCESS_KEY="Enter_secret_access_key"
 # AWS_SESSION_TOKEN=optional_session_token_here
 
 # AWS Region (Optional, defaults to us-east-1)
-AWS_REGION=eu-north-1
+AWS_REGION="Enter_region"
 
 ```
 
@@ -4871,4 +4871,5 @@ if __name__ == "__main__":
     main()
 
 ```
+
 
